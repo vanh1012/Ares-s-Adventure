@@ -28,7 +28,7 @@ A Python-based puzzle game featuring Sokoban with multiple pathfinding algorithm
 1. Clone the repository:
 ```bash
 git clone https://github.com/vanh1012/Ares-s-Adventure.git
-cd Sokoban
+cd Ares-s-Adventure
 ```
 2. Install required packages:
 ```bash
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ```
 3. Run the game:
 ```bash
-python Sokoban.py
+python main.py
 ```
 ## 🎯 How to Play
 1. **Select level**: Use arrow keys ⬆️⬇️ to navigate through the level selection and press Enter to confirm.
